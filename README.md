@@ -10,10 +10,3 @@ Daftar tugas / branch
 
 Daftar perintah GiT
 
-1. git checkout -b Tugas-finalProject
-2. touch Tugas-finalProject.txt
-3. git add Tugas-finalProject.txt
-4. git commit -m "menambahkan tugas-finalProject ke Tugas-finalProject.txt "
-5. git checkout main
-6. git merge Tugas-finalProject
-7. git push origin main
