@@ -10,6 +10,7 @@ Daftar tugas / branch
 
 Daftar perintah GiT
 
+<<<<<<< HEAD
 1. git checkout -b Tugas-finalProject
 2. touch Tugas-finalProject.txt
 3. git add Tugas-finalProject.txt
@@ -17,3 +18,5 @@ Daftar perintah GiT
 5. git checkout main
 6. git merge Tugas-finalProject
 7. git push origin main
+=======
+>>>>>>> 18722a925d74711f6b3dc2bd9ec4dbc2126915c7
